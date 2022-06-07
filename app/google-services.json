@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "65837532047",
+    "firebase_url": "https://retrieving-61a9c-default-rtdb.firebaseio.com",
+    "project_id": "retrieving-61a9c",
+    "storage_bucket": "retrieving-61a9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65837532047:android:e9db876b43b6fd6c5d01fa",
+        "android_client_info": {
+          "package_name": "com.khibo.retrieve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65837532047-gofudeorsbr363a9cjsj3ij8irt70tj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHF8IYxCLiAqK3pCrcTXLYNAK1JH6kJ50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65837532047-gofudeorsbr363a9cjsj3ij8irt70tj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
